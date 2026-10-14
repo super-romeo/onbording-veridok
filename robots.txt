@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://onbording.veridok.ru/sitemap.xml
